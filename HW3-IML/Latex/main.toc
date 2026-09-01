@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}سؤال 1: تحلیل ریاضی محوشدن گرادیان و حالت سلولی در LSTM}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}بخش الف: اثبات مسئله محوشدن گرادیان در RNNهای استاندارد}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}بخش ب: مشتق حالت سلولی LSTM و کاهش مسئله محوشدن گرادیان}{4}{subsection.1.2}%
+\contentsline {section}{\numberline {2}سؤال 2: استخراج معادلات پس‌انتشار برای دروازه ریست در GRU}{5}{section.2}%
+\contentsline {section}{\numberline {3}سؤال 3: پیاده‌سازی LSTM با دروازه ورودی-فراموشی کوپل‌شده از صفر با استفاده از NumPy}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}بخش الف: پیاده‌سازی Forward Pass}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}بخش ب: کاربرد روی یک سری زمانی مصنوعی و تحلیل خروجی}{10}{subsection.3.2}%
+\contentsline {section}{\numberline {4}سوال ۴: پیاده‌سازی RNN با پردازش دسته‌ای، Concatenation و BPTT}{12}{section.4}%
+\contentsline {subsection}{\numberline {4.1}توضیح مفهومی مسئله}{13}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}مدل ریاضی RNN}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}ایده‌ی Concatenation}{14}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}پردازش دسته‌ای}{15}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}در این سوال بارها به نوسان خوردیم و ...}{15}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}تابع هزینه}{15}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}BPTT}{16}{subsection.4.7}%
+\contentsline {subsection}{\numberline {4.8}Gradient Clipping}{16}{subsection.4.8}%
+\contentsline {subsection}{\numberline {4.9}داده‌ی مصنوعی Many-to-One}{17}{subsection.4.9}%
+\contentsline {subsection}{\numberline {4.10}کد کامل پیاده‌سازی شبکه بازگشتی}{17}{subsection.4.10}%
+\contentsline {subsection}{\numberline {4.11}تحلیل خروجی‌های حاصل از آموزش}{36}{subsection.4.11}%
+\contentsline {subsection}{\numberline {4.12}خروجی‌های نهایی برنامه}{36}{subsection.4.12}%
+\contentsline {subsection}{\numberline {4.13}جمع‌بندی نهایی}{38}{subsection.4.13}%
+\contentsline {section}{\numberline {5}سؤال 5: RNNهای PyTorch: BiLSTM مقاوم برای دنباله‌های با طول متغیر و آموزش پایدار}{38}{section.5}%
+\contentsline {subsection}{\numberline {5.1}مقدمه}{39}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}بخش (الف): مدیریت دنباله‌های با طول متغیر}{39}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}هدف}{39}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}نظریه دنباله‌های packed}{40}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}LSTM دو‌سویه}{41}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}پیاده‌سازی RobustBiLSTM}{41}{subsubsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.5}ابعاد خروجی}{45}{subsubsection.5.2.5}%
+\contentsline {subsubsection}{\numberline {5.2.6}تابع collate برای padding}{46}{subsubsection.5.2.6}%
+\contentsline {subsubsection}{\numberline {5.2.7}نتایج بخش (الف)}{48}{subsubsection.5.2.7}%
+\contentsline {subsection}{\numberline {5.3}بخش (ب): حلقه آموزش پایدار و ترفندها}{48}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}هدف}{48}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}مجموعه‌داده مصنوعی}{49}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}مقداردهی اولیه اُرتوگونال}{51}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Gradient Clipping}{53}{subsubsection.5.3.4}%
+\contentsline {subsubsection}{\numberline {5.3.5}مدیریت حالت پنهان}{54}{subsubsection.5.3.5}%
+\contentsline {subsubsection}{\numberline {5.3.6}حلقه آموزش پایدار}{55}{subsubsection.5.3.6}%
+\contentsline {subsubsection}{\numberline {5.3.7}نتایج بخش (ب)}{60}{subsubsection.5.3.7}%
+\contentsline {subsection}{\numberline {5.4}بحث}{61}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}نتیجه‌گیری}{61}{subsection.5.5}%
